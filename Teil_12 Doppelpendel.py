@@ -1,6 +1,6 @@
 import pygame as pg
 from math import *
-
+import random
 
 def endPosBerechnen(pos, θ, L):
   x1, y1 = pos
